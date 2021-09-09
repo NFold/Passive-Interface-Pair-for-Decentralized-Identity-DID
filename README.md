@@ -1,4 +1,4 @@
-# Passive-Interface-Pair (DID)
-Passive Interface and DNA Validation for DID
+# Passive-Interface-Pair for DID
+Passive Interface and DNA Validation for Decentralized Identity (DID) 
 
-Description of Project.
+Description: See WIki Tab
